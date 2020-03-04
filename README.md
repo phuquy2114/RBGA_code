@@ -1,8 +1,6 @@
 Hexadecimal color code for transparency
 =================
 
-[![Twitter](https://img.shields.io/badge/Twitter-@LopezMikhael-blue.svg?style=flat)](http://twitter.com/lopezmikhael)
-
 ### How to set transparency with hex value ?
 
 For example, you want to set **40%** alpha transparence to `#000000` (black color), you need to add `66` like this `#66000000`.
